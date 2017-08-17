@@ -67,22 +67,8 @@ int main() {
 	
 	puts("201606840052 - Marco Antonio Valino Lima -  http://lattes.cnpq.br/8429519306432424");
 	puts("Meu mantra: Ninguém é um fracasso quem tem amigos.\n");
+
 	     
-	puts("201606840063 - Edilson da Conceição Júnior -  https://docs.google.com/document/d/19EFb7tqHtUO82l0_3024G0lVSYjfEZB1zDsncJc3P4o \n");
-	puts("Meu mantra: Não há caminhos fáceis \n");
-		     
 	puts("201606840034 - Marcus Davi Oliveira Castro -  http://lattes.cnpq.br/7588463252612568 \n");
 	puts("Meu mantra: Loucura é continuar fazendo sempre a mesma coisa e esperar resultados diferentes \n");
-
-	puts("201606840049 - Renan Bastos de Moura - http://lattes.cnpq.br/3229555713231516 \n");
-	puts("Meu mantra: No  inicio o universo foi criado, e isso foi uma pessima ideia. \n");
-
-	puts("201607040029 - Bruno Luiz Ramos Santana - http://lattes.cnpq.br/2962209446112901 \n");
-	puts("Meu mantra: Você não pode simplesmente pular para o final, o caminho é a melhor parte. \n"); 
-	
-	puts("201606840011 - Arissa Oliveira Niwa - http://lattes.cnpq.br/7425701933858594 \n");
-	puts("Jamais se desespere em meio as sombrias aflições de sua vida, pois das nuvens mais negras cai água límpida e fecunda.\n");
-
-
 }
-
